@@ -1,0 +1,8 @@
+.swiper{
+
+    height: 300px;
+}
+.swiper-slide
+{background-color: silver; display: flex; justify-content: center; align-items: center; font-size: 20px;}
+.hed_1
+{background-color: sandybrown;}
